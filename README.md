@@ -13,7 +13,7 @@
 
 <br/>
 
-### 🧭 About Me
+### 🧭 About Me.
 
 - 🔭 Currently working as a **Fullstack Engineer** at **PT. Bank Rakyat Indonesia**, outsourced through **Entrust Digital**
 - 🎓 Graduate of **Hacktiv8 Indonesia** — *Fullstack JavaScript Immersive* bootcamp
