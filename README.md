@@ -52,23 +52,11 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=edwinsatya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=edwinsatya&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=edwinsatya&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
-
-<br/>
-
-### 🚀 Featured Projects
-
-> _Pin your best repos on your profile (click "Customize your pins" on GitHub) — they'll show up here automatically once pinned. In the meantime, here are a couple of highlight slots you can fill in:_
-
-| Project | Stack | Description |
-|---|---|---|
-| [Project Name](#) | Next.js, PostgreSQL, GraphQL | One-line pitch: what it does and the problem it solves |
-| [Project Name](#) | Vue, Node.js, MongoDB | One-line pitch: what it does and the problem it solves |
 
 <br/>
 
