@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/edwin-satya-yudistira">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://its-me.touchsimpledev.site/">
+<a href="https://edwin.touchsimpledev.site/">
   <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
