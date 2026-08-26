@@ -10,7 +10,7 @@
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 <div align="center">
 
-<img src="./assets/isagi.gif" width="100%" alt="Edwin Satya Yudistira — Fullstack Engineer" />
+<img src="./assets/banner.webp" width="100%" alt="Edwin Satya Yudistira — Fullstack Engineer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=00A3FF&center=true&vCenter=true&width=780&lines=Fullstack+Engineer+%40+PT.+Bank+Rakyat+Indonesia;6%2B+years+building+production+web+applications;From+pixel-perfect+UI+to+scalable+APIs" alt="typing" />
 
