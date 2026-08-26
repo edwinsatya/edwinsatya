@@ -1,65 +1,99 @@
-<!-- ===== BADGE RAIL ===== -->
+<!-- ═══════════════════ BADGE RAIL ═══════════════════ -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=edwinsatya&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
   <a href="https://www.linkedin.com/in/edwin-satya-yudistira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://edwin.touchsimpledev.site/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/edwinsatya?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="mailto:edwinsatyayudistira.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:edwinsatyayudistira@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-<!-- ===== BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1e3a8a,100:6366f1&height=200&section=header&text=Fullstack%20Engineer&fontSize=46&fontColor=ffffff&fontAlignY=45&desc=React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20Node.js&descAlignY=68&descSize=16&animation=fadeIn" width="100%" />
-
-<br/>
-
-### 🧭 About Me
-
-- 🔭 Currently working as a **Fullstack Engineer** at **PT. Bank Rakyat Indonesia**, outsourced through **Entrust Digital**
-- 🎓 Graduate of **Hacktiv8 Indonesia** — *Fullstack JavaScript Immersive* bootcamp
-- 💻 6+ years building production web apps end-to-end, from pixel-perfect UI to scalable APIs
-- 🌱 Always sharpening my skills in system design, performance, and clean architecture
-- 🤝 Open to interesting **fullstack / frontend** opportunities — let's talk!
-- ⚡ Fun fact: I enjoy turning messy requirements into shipped features on tight deadlines
-
-<br/>
-
-### 🛠️ Tech Stack
-
+<!-- ═══════════════════ HEADER ═══════════════════ -->
 <div align="center">
 
-<b>Frontend</b><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,html,css,tailwind" />
+<img src="./assets/isagi.gif" width="100%" alt="Edwin Satya Yudistira — Fullstack Engineer" />
 
-<b>Backend & Data</b><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,graphql,postgres,mongodb,express,redis" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=00A3FF&center=true&vCenter=true&width=780&lines=Fullstack+Engineer+%40+PT.+Bank+Rakyat+Indonesia;6%2B+years+building+production+web+applications;From+pixel-perfect+UI+to+scalable+APIs" alt="typing" />
 
-<b>Tools</b><br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0047FF,50:00D9FF,100:0047FF&height=3&section=header" width="100%" />
 
 </div>
 
-<br/>
+<!-- ═══════════════════ ABOUT ═══════════════════ -->
 
-### 📊 GitHub Stats
+## 👋 About Me
+
+Fullstack engineer with **6+ years** of experience building and shipping production web applications end-to-end — from pixel-perfect interfaces to the APIs behind them.
+
+|  |  |
+|:--|:--|
+| **Role** | Fullstack Engineer |
+| **Company** | PT. Bank Rakyat Indonesia — outsourced via **Entrust Digital** |
+| **Education** | Hacktiv8 Indonesia — *Fullstack JavaScript Immersive* |
+| **Experience** | 6+ years in production web development |
+| **Focus** | System design · performance · clean architecture |
+| **Status** | 🟦 Open to fullstack / frontend opportunities |
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0047FF,50:00D9FF,100:0047FF&height=3&section=header" width="100%" /></div>
+
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=edwinsatya&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=edwinsatya&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind&theme=dark" />
+
+**Backend & Data**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,redis&theme=dark" />
+
+**Tools**  
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma&theme=dark" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0047FF,50:00D9FF,100:0047FF&height=3&section=header" width="100%" />
 
 </div>
 
-<br/>
+<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 
-### 📫 Let's Connect
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/edwin-satya-yudistira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://edwin.touchsimpledev.site/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=aboutdotme&logoColor=white" /></a>
+<img src="https://streak-stats.demolab.com?user=edwinsatya&hide_border=true&background=05070F&stroke=0A2A5E&ring=00A3FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=C9D9FF&currStreakLabel=00A3FF&sideLabels=C9D9FF&dates=6B7FA8" height="170" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=edwinsatya&layout=compact&hide_border=true&langs_count=8&title_color=00A3FF&text_color=C9D9FF&bg_color=05070F" height="170" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0047FF,50:00D9FF,100:0047FF&height=3&section=header" width="100%" />
+
+</div>
+
+<!-- ═══════════════════ CURRENTLY ═══════════════════ -->
+
+## 🎯 What I'm Working On
+
+- 🔭 Building and maintaining banking-scale web applications at **BRI**
+- 🌱 Deepening my skills in **system design**, frontend performance, and clean architecture
+- 💡 Turning complex, changing requirements into features that ship on schedule
+- 🤝 Open to conversations about **fullstack / frontend** roles
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0047FF,50:00D9FF,100:0047FF&height=3&section=header" width="100%" /></div>
+
+<!-- ═══════════════════ CONTACT ═══════════════════ -->
+
+## 📫 Get In Touch
+
+<div align="center">
+
+**Have a project or a role in mind? I'd be glad to hear about it.**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/edwin-satya-yudistira"><img src="https://img.shields.io/badge/LinkedIn-0047FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05070F" /></a>
+<a href="https://edwin.touchsimpledev.site/"><img src="https://img.shields.io/badge/Portfolio-0047FF?style=for-the-badge&logo=aboutdotme&logoColor=white&labelColor=05070F" /></a>
+<a href="mailto:edwinsatyayudistira@gmail.com"><img src="https://img.shields.io/badge/Gmail-0047FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05070F" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:0ea5e9&height=8&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0047FF,50:00134D,100:000000&height=80&section=footer&text=Thanks%20for%20stopping%20by&fontSize=18&fontColor=ffffff&fontAlignY=70" width="100%" />
 
 </div>
