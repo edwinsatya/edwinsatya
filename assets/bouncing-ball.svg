@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="bouncing football">
+  <defs>
+    <radialGradient id="sheen" cx="34%" cy="28%" r="78%">
+      <stop offset="0%"   stop-color="#FFFFFF"/>
+      <stop offset="62%"  stop-color="#F1F5F9"/>
+      <stop offset="100%" stop-color="#C3CBD6"/>
+    </radialGradient>
+    <radialGradient id="shade" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#0B1220" stop-opacity="0.38"/>
+      <stop offset="100%" stop-color="#0B1220" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="rim"><circle r="9"/></clipPath>
+  </defs>
+
+  <!-- ground shadow: tightens as the ball lands -->
+  <ellipse cx="24" cy="43" rx="11" ry="3" fill="url(#shade)">
+    <animate attributeName="rx" values="6;11;6" keyTimes="0;0.5;1" dur="1.15s"
+             calcMode="spline" keySplines="0.5 0 1 0.5; 0 0.5 0.5 1" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.45;1;0.45" keyTimes="0;0.5;1" dur="1.15s"
+             calcMode="spline" keySplines="0.5 0 1 0.5; 0 0.5 0.5 1" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- ball: fall (ease-in) / rise (ease-out), squash on impact, spin throughout -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+                      values="0 0; 0 24; 0 0" keyTimes="0;0.5;1" dur="1.15s"
+                      calcMode="spline" keySplines="0.5 0 1 0.5; 0 0.5 0.5 1" repeatCount="indefinite"/>
+    <g transform="translate(24 12)">
+      <animateTransform attributeName="transform" type="scale" additive="sum"
+                        values="1 1; 1 1; 1.18 0.82; 1 1; 1 1" keyTimes="0;0.42;0.5;0.58;1"
+                        dur="1.15s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" additive="sum"
+                          values="0;360" dur="2.3s" repeatCount="indefinite"/>
+        <circle r="9" fill="url(#sheen)"/>
+        <g clip-path="url(#rim)">
+          <!-- seams -->
+          <g stroke="#94A3B8" stroke-width="0.7" stroke-linecap="round">
+            <path d="M0,-3.5 V-9.6"/>
+            <path d="M3.33,-1.08 L9.13,-2.96"/>
+            <path d="M2.06,2.83 L5.64,7.77"/>
+            <path d="M-2.06,2.83 L-5.64,7.77"/>
+            <path d="M-3.33,-1.08 L-9.13,-2.96"/>
+          </g>
+          <!-- panels -->
+          <g fill="#111827">
+            <polygon points="0.00,-3.50 3.33,-1.08 2.06,2.83 -2.06,2.83 -3.33,-1.08"/>
+            <polygon points="6.58,-9.06 7.82,-5.26 4.58,-2.91 1.35,-5.26 2.59,-9.06"/>
+            <polygon points="10.65,3.46 7.42,5.81 4.18,3.46 5.42,-0.34 9.42,-0.34"/>
+            <polygon points="0.00,11.20 -3.23,8.85 -2.00,5.05 2.00,5.05 3.23,8.85"/>
+            <polygon points="-10.65,3.46 -9.42,-0.34 -5.42,-0.34 -4.18,3.46 -7.42,5.81"/>
+            <polygon points="-6.58,-9.06 -2.59,-9.06 -1.35,-5.26 -4.58,-2.91 -7.82,-5.26"/>
+          </g>
+        </g>
+        <circle r="9" fill="none" stroke="#0F172A" stroke-opacity="0.55" stroke-width="0.8"/>
+      </g>
+    </g>
+  </g>
+</svg>
