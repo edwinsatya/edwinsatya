@@ -12,7 +12,7 @@
 
 <img src="./assets/banner.webp" width="100%" alt="Edwin Satya Yudistira — Fullstack Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=00A3FF&center=true&vCenter=true&width=780&lines=Fullstack+Engineer+%40+PT.+Bank+Rakyat+Indonesia;6%2B+years+building+production+web+applications;From+pixel-perfect+UI+to+scalable+APIs" alt="typing" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=00A3FF&center=true&vCenter=true&width=780&lines=Fullstack+Engineer+%40+PT.+Bank+Rakyat+Indonesia;6%2B+years+building+production+web+applications;From+pixel-perfect+UI+to+scalable+APIs" alt="typing" /> -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0047FF,50:00D9FF,100:0047FF&height=3&section=header" width="100%" />
 
@@ -24,14 +24,14 @@
 
 Fullstack engineer with **6+ years** of experience building and shipping production web applications end-to-end — from pixel-perfect interfaces to the APIs behind them.
 
-|  |  |
-|:--|:--|
-| **Role** | Fullstack Engineer |
-| **Company** | PT. Bank Rakyat Indonesia — outsourced via **Entrust Digital** |
-| **Education** | Hacktiv8 Indonesia — *Fullstack JavaScript Immersive* |
-| **Experience** | 6+ years in production web development |
-| **Focus** | System design · performance · clean architecture |
-| **Status** | 🟦 Open to fullstack / frontend opportunities |
+|                |                                                                |
+| :------------- | :------------------------------------------------------------- |
+| **Role**       | Fullstack Engineer                                             |
+| **Company**    | PT. Bank Rakyat Indonesia — outsourced via **Entrust Digital** |
+| **Education**  | Hacktiv8 Indonesia — _Fullstack JavaScript Immersive_          |
+| **Experience** | 6+ years in production web development                         |
+| **Focus**      | System design · performance · clean architecture               |
+| **Status**     | 🟦 Open to fullstack / frontend opportunities                  |
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0047FF,50:00D9FF,100:0047FF&height=3&section=header" width="100%" /></div>
 
