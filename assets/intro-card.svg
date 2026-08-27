@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 1202" width="1200" height="1202" role="img" aria-label="Edwin Satya Yudistira — Fullstack Engineer at PT. Bank Rakyat Indonesia (via Entrust Digital), 6+ years shipping production web apps, from pixel-perfect UI to the APIs behind them.">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 1202" width="1200" height="1202" role="img" aria-label="Edwin Satya Yudistira — Fullstack Engineer, 6+ years shipping production web apps, from pixel-perfect UI to the APIs behind them.">
   <defs>
     <linearGradient id="bx-rail" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#00D9FF"/><stop offset="38%" stop-color="#0047FF"/><stop offset="72%" stop-color="#6D3BF5"/><stop offset="100%" stop-color="#B152F7"/>
@@ -100,9 +100,9 @@
   </g>
 
   <text class="t greet" x="82" y="612.7514124293785" font-size="22" font-weight="600">Hi there!</text>
-  <text class="t name" x="54" y="680.7514124293785" font-size="52" font-weight="800" letter-spacing="-0.5">I'm Edwin Satya Yudistira</text>
+  <text class="t name" x="54" y="680.7514124293785" font-size="52" font-weight="800" letter-spacing="-0.5">I'm Edwin</text>
 
-  <text class="t bio" x="56" y="742.7514124293785" font-size="19">Fullstack Engineer at PT. Bank Rakyat Indonesia (via Entrust Digital) — 6+ years shipping production web apps,</text>
+  <text class="t bio" x="56" y="742.7514124293785" font-size="19">Fullstack Engineer — 6+ years shipping production web apps,</text>
   <text class="t bio" x="56" y="774.7514124293785" font-size="19">from pixel-perfect UI to the APIs behind them. When the graph goes quiet, I'm on system design or resting <tspan font-size="18">😴</tspan></text>
 
   <rect x="56" y="846.7514124293785" width="4" height="14" rx="2" fill="#B152F7"/>
